@@ -1,0 +1,162 @@
+[submodule "plugins/ack.vim"]
+	path = plugins/ack.vim
+	url = https://github.com/mileszs/ack.vim.git
+[submodule "plugins/ag.vim"]
+	path = plugins/ag.vim
+	url = https://github.com/rking/ag.vim.git
+[submodule "plugins/auto-pairs"]
+	path = plugins/auto-pairs
+	url = https://github.com/jiangmiao/auto-pairs.git
+[submodule "plugins/bufexplorer"]
+	path = plugins/bufexplorer
+	url = https://github.com/jlanzarotta/bufexplorer.git
+[submodule "plugins/Conque-Shell"]
+	path = plugins/Conque-Shell
+	url = https://github.com/vim-scripts/Conque-Shell.git
+[submodule "plugins/ctrlp.vim"]
+	path = plugins/ctrlp.vim
+	url = https://github.com/kien/ctrlp.vim.git
+[submodule "plugins/goyo.vim"]
+	path = plugins/goyo.vim
+	url = https://github.com/junegunn/goyo.vim.git
+[submodule "plugins/gruvbox"]
+	path = plugins/gruvbox
+	url = https://github.com/morhetz/gruvbox.git
+[submodule "plugins/lightline.vim"]
+	path = plugins/lightline.vim
+	url = https://github.com/itchyny/lightline.vim.git
+[submodule "plugins/mayansmoke"]
+	path = plugins/mayansmoke
+	url = https://github.com/vim-scripts/mayansmoke.git
+[submodule "plugins/nerdtree"]
+	path = plugins/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "plugins/nginx.vim"]
+	path = plugins/nginx.vim
+	url = https://github.com/chr4/nginx.vim.git
+[submodule "plugins/open_file_under_cursor.vim"]
+	path = plugins/open_file_under_cursor.vim
+	url = https://github.com/amix/open_file_under_cursor.vim.git
+[submodule "plugins/rust.vim"]
+	path = plugins/rust.vim
+	url = https://github.com/rust-lang/rust.vim.git
+[submodule "plugins/vim-snippets"]
+	path = plugins/vim-snippets
+	url = https://github.com/honza/vim-snippets.git
+[submodule "plugins/syntastic"]
+	path = plugins/syntastic
+	url = https://github.com/vim-syntastic/syntastic.git
+[submodule "plugins/tabular"]
+	path = plugins/tabular
+	url = https://github.com/godlygeek/tabular.git
+[submodule "plugins/tlib_vim"]
+	path = plugins/tlib_vim
+	url = https://github.com/tomtom/tlib_vim.git
+[submodule "plugins/vim-addon-mw-utils"]
+	path = plugins/vim-addon-mw-utils
+	url = https://github.com/MarcWeber/vim-addon-mw-utils.git
+[submodule "plugins/vim-airline"]
+	path = plugins/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
+[submodule "plugins/vim-airline-themes"]
+	path = plugins/vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes.git
+[submodule "plugins/vim-bundle-mako"]
+	path = plugins/vim-bundle-mako
+	url = https://github.com/sophacles/vim-bundle-mako.git
+[submodule "plugins/vim-coffee-script"]
+	path = plugins/vim-coffee-script
+	url = https://github.com/kchmck/vim-coffee-script.git
+[submodule "plugins/vim-colorschemes"]
+	path = plugins/vim-colorschemes
+	url = https://github.com/flazz/vim-colorschemes.git
+[submodule "plugins/vim-colors-solarized"]
+	path = plugins/vim-colors-solarized
+	url = https://github.com/altercation/vim-colors-solarized.git
+[submodule "plugins/vim-commentary"]
+	path = plugins/vim-commentary
+	url = https://github.com/tpope/vim-commentary.git
+[submodule "plugins/vim-cpp-enhanced-highlight"]
+	path = plugins/vim-cpp-enhanced-highlight
+	url = https://github.com/octol/vim-cpp-enhanced-highlight.git
+[submodule "plugins/vim-expand-region"]
+	path = plugins/vim-expand-region
+	url = https://github.com/terryma/vim-expand-region.git
+[submodule "plugins/vim-flake8"]
+	path = plugins/vim-flake8
+	url = https://github.com/nvie/vim-flake8.git
+[submodule "plugins/vim-fugitive"]
+	path = plugins/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule "plugins/vim-gitgutter"]
+	path = plugins/vim-gitgutter
+	url = https://github.com/airblade/vim-gitgutter.git
+[submodule "plugins/vim-go"]
+	path = plugins/vim-go
+	url = https://github.com/fatih/vim-go.git
+[submodule "plugins/vim-indent-object"]
+	path = plugins/vim-indent-object
+	url = https://github.com/michaeljsmith/vim-indent-object.git
+[submodule "plugins/vim-less"]
+	path = plugins/vim-less
+	url = https://github.com/groenewege/vim-less.git
+[submodule "plugins/vim-markdown"]
+	path = plugins/vim-markdown
+	url = https://github.com/plasticboy/vim-markdown.git
+[submodule "plugins/vim-markdown-preview"]
+	path = plugins/vim-markdown-preview
+	url = https://github.com/JamshedVesuna/vim-markdown-preview.git
+[submodule "plugins/mesonic"]
+	path = plugins/mesonic
+	url = https://github.com/igankevich/mesonic.git
+[submodule "plugins/vim-misc"]
+	path = plugins/vim-misc
+	url = https://github.com/xolox/vim-misc.git
+[submodule "plugins/vim-multiple-cursors"]
+	path = plugins/vim-multiple-cursors
+	url = https://github.com/terryma/vim-multiple-cursors.git
+[submodule "plugins/vim-multiple-monitors"]
+	path = plugins/vim-multiple-monitors
+	url = https://github.com/codeape2/vim-multiple-monitors.git
+[submodule "plugins/vim-pug"]
+	path = plugins/vim-pug
+	url = https://github.com/digitaltoad/vim-pug.git
+[submodule "plugins/pyte"]
+	path = plugins/pyte
+	url = https://github.com/vim-scripts/pyte.git
+[submodule "plugins/vim-repeat"]
+	path = plugins/vim-repeat
+	url = https://github.com/tpope/vim-repeat.git
+[submodule "plugins/vim-session"]
+	path = plugins/vim-session
+	url = https://github.com/xolox/vim-session.git
+[submodule "plugins/vim-snipmate"]
+	path = plugins/vim-snipmate
+	url = https://github.com/garbas/vim-snipmate.git
+[submodule "plugins/vim-surround"]
+	path = plugins/vim-surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule "plugins/vim-tmux-focus-events"]
+	path = plugins/vim-tmux-focus-events
+	url = https://github.com/tmux-plugins/vim-tmux-focus-events.git
+[submodule "plugins/vim-yankstack"]
+	path = plugins/vim-yankstack
+	url = https://github.com/maxbrunsfeld/vim-yankstack.git
+[submodule "plugins/vim-zenroom2"]
+	path = plugins/vim-zenroom2
+	url = https://github.com/amix/vim-zenroom2.git
+[submodule "plugins/YouCompleteMe"]
+	path = plugins/YouCompleteMe
+	url = https://github.com/Valloric/YouCompleteMe.git
+[submodule "plugins/mru.vim"]
+	path = plugins/mru.vim
+	url = https://github.com/vim-scripts/mru.vim.git
+[submodule "plugins/peaksea"]
+	path = plugins/peaksea
+	url = https://github.com/vim-scripts/peaksea.git
+[submodule "plugins/vim-irblack"]
+	path = plugins/vim-irblack
+	url = https://github.com/wesgibbs/vim-irblack.git
+[submodule "plugins/vim-peepopen"]
+	path = plugins/vim-peepopen
+	url = https://github.com/shemerey/vim-peepopen.git
